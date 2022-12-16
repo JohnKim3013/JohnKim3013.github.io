@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://johnkim3013.github.io/sitemap.xml
